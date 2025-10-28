@@ -12,6 +12,7 @@ h1 {
     font-family: "Passion One", sans-serif;
     font-weight: 400;
     font-style: bold;
+    font-variant: small-caps;
 }
 
 p {
@@ -22,6 +23,7 @@ p {
 a {
     text-decoration: none;
     color: white;
+    font-weight: bold;
 }
 
 a:hover {
